@@ -1,0 +1,122 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+*.dll
+
+# ------------------------------
+# Environments
+# ------------------------------
+.venv/
+venv/
+env/
+ENV/
+.venv*/
+venv*/
+env*/
+ENV*/
+.python-version
+
+# ------------------------------
+# Distribution / packaging
+# ------------------------------
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+sdist/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-wheel-metadata/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ------------------------------
+# Unit test / coverage reports
+# ------------------------------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+junit*.xml
+
+# ------------------------------
+# Type checkers / linters
+# ------------------------------
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# ------------------------------
+# PyInstaller
+# ------------------------------
+*.manifest
+*.spec
+
+# ------------------------------
+# Jupyter
+# ------------------------------
+.ipynb_checkpoints/
+
+# ------------------------------
+# Logs and runtime files
+# ------------------------------
+logs/
+*.log
+*.pid
+*.pid.lock
+
+# ------------------------------
+# Local environment variables & secrets
+# ------------------------------
+.env
+.env.*
+!.env.example
+
+# ------------------------------
+# Editors / IDEs / Tooling
+# ------------------------------
+.idea/
+*.iml
+.vscode/
+.history/
+.cursor/
+*.code-workspace
+
+# ------------------------------
+# OS-specific
+# ------------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ------------------------------
+# Optional local data & temp
+# ------------------------------
+tmp/
+temp/
+data/
+
